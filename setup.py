@@ -7,7 +7,7 @@ setup(
     name="fake-headers",
     version="1.0.2-dw",
     author="TheDevFromKer",
-    license="MIT",
+    license="GPL-3.0",
     description="Package for generate headers to http requests.",
     url="https://github.com/TheDevFromKer/Fake-Headers",
     packages=[str('fake_headers')],
